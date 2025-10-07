@@ -8,6 +8,6 @@ namespace GestioEmpreserialMaquineVehicle
 {
     internal class Maquina
     {
-
+        public Maquina() { }
     }
 }
